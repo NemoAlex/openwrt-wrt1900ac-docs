@@ -1,4 +1,4 @@
-# wrt1900ac 相关资源
+# Linksys WRT1900ac OpenWrt 相关资源
 
 包含一些编译好的 IPK 软件包，以及中文的说明文档。
 

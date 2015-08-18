@@ -18,5 +18,6 @@
 
 ## 原创文章
 
+* [安装和更新 IPK 软件包](https://github.com/NemoAlex/openwrt-wrt1900ac-docs/wiki/%E5%AE%89%E8%A3%85%E5%92%8C%E6%9B%B4%E6%96%B0%E8%BD%AF%E4%BB%B6%E5%8C%85)
 * [IPK 软件包编译指南](https://github.com/NemoAlex/openwrt-wrt1900ac-docs/wiki/%E7%AE%80%E6%98%93%E6%8C%87%E5%8D%97%EF%BC%9A%E4%BD%BF%E7%94%A8-OpenWrt-%E7%9A%84%E4%BA%A4%E5%8F%89%E7%BC%96%E8%AF%91-SDK-%E6%9D%A5%E7%BC%96%E8%AF%91-ipk-%E8%BD%AF%E4%BB%B6%E5%8C%85)
 * [使用 crontab 定时更新 chinadns_chnroute](https://github.com/NemoAlex/openwrt-wrt1900ac-docs/wiki/%E4%BD%BF%E7%94%A8-crontab-%E5%AE%9A%E6%97%B6%E6%9B%B4%E6%96%B0-chinadns_chnroute)

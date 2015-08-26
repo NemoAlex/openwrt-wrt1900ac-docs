@@ -20,7 +20,7 @@ A: 系统很稳，无线驱动依然有一点问题。不过已经算是可以�
 
 Q: 如何从官方固件刷成 Openwrt？
 
-A: 登陆路由器 web 界面，点击 connectivity，选择 Manual firmware update，选择固件，点击上传即可。
+A: 使用网线连接路由器(重要)，登陆路由器 web 界面，点击 connectivity，选择 Manual firmware update，选择固件，点击上传即可。
 
 Q: [固件下载页面](https://downloads.openwrt.org/chaos_calmer/15.05-rc3/mvebu/generic/)有这么多链接，我该用哪个？
 

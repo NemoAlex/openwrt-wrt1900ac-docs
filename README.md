@@ -6,7 +6,7 @@
 
 ## 通知
 
-* [把 15.05 RC3 的无线模块驱动更新到最新(重要)](https://github.com/NemoAlex/openwrt-wrt1900ac-docs/wiki/2015-%E5%B9%B4-8-%E6%9C%88-2-%E6%97%A5%EF%BC%9A%E5%85%B3%E4%BA%8E%E6%9C%80%E6%96%B0%E7%9A%84%E6%97%A0%E7%BA%BF%E6%A8%A1%E5%9D%97%E9%A9%B1%E5%8A%A8)
+* 15.05 正式版已经发布，请更新
 
 ## 快速问答
 

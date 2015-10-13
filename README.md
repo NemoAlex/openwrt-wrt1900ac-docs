@@ -34,7 +34,9 @@ A: 路由器代号：`mamba: WRT1900AC v1`；`cobra: WRT1900AC v2`；`caiman: WR
 
 * [OpenWrt Linksys WRT1900AC](http://wiki.openwrt.org/toh/linksys/wrt1900ac)
 * [OpenWrt 15.05 下载](https://downloads.openwrt.org/chaos_calmer/15.05/mvebu/generic/)
-* [网友 popu111 提供的 opkg 国内镜像](http://www.right.com.cn/forum/thread-168519-1-1.html)
+* [中科大 Openwrt 镜像](http://mirrors.ustc.edu.cn/openwrt/)
+* [网友 popu111 提供的 Openwrt 镜像](http://www.right.com.cn/forum/thread-168519-1-1.html)
+* [网友 acrisliu 提供的 Openwrt 镜像](https://www.v2ex.com/t/227245)
 * [网友 wangshuoyao 提供的固件](https://github.com/wongsyrone/openwrt-1) 这个版本集成了多个软件，有需要的可以自行编译
 
 ## 原创文章

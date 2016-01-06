@@ -6,7 +6,7 @@
 
 ## 通知
 
-* [更新无线驱动到 10.3.0.14](https://github.com/NemoAlex/openwrt-wrt1900ac-docs/wiki/%E5%85%B3%E4%BA%8E%E6%97%A0%E7%BA%BF%E6%A8%A1%E5%9D%97%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%9B%B4%E6%96%B0)
+* [无线驱动更新到 10.3.0.16-20160105](https://github.com/NemoAlex/openwrt-wrt1900ac-docs/wiki/%E5%85%B3%E4%BA%8E%E6%97%A0%E7%BA%BF%E6%A8%A1%E5%9D%97%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%9B%B4%E6%96%B0)
 * 15.05 正式版已经发布
 
 ## 快速问答

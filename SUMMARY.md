@@ -1,6 +1,5 @@
 # Summary
 
-* [Introduction](README.md)
 * 翻墙
 * 文件共享
 * 硬件

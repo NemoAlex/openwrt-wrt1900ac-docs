@@ -5,4 +5,5 @@
 * 文件共享
 * [更新无线模块驱动](docs/update_wifi_driver.md)
 * 硬件
+   * 更新无线模块驱动
 

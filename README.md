@@ -28,15 +28,16 @@ A: 在 OpenWrt 的 Web 界面上传 Linksys [原版固件](http://www.linksys.co
 
 Q: [固件下载页面](https://downloads.openwrt.org/chaos_calmer/15.05.1/mvebu/generic/)有这么多链接，我该用哪个？
 
-A: 路由器代号：`mamba: WRT1900AC v1`；`cobra: WRT1900AC v2`；`caiman: WRT1200AC`。从原版固件更新到 Openwrt 使用 `factory.img`；从 Openwrt 更新到 Openwrt 使用 `sysupgrade.tar`。
+A: 路由器代号：`mamba: WRT1900AC v1`；`cobra: WRT1900AC v2`；`shelby: WRT1900ACS`；`caiman: WRT1200AC`。从原版固件更新到 Openwrt 使用 `factory.img`；从 Openwrt 更新到 Openwrt 使用 `sysupgrade.tar`。
 
 ## 有用链接
 
 * [OpenWrt Linksys WRT1900AC](http://wiki.openwrt.org/toh/linksys/wrt1900ac)
 * [OpenWrt 15.05.1 下载](https://downloads.openwrt.org/chaos_calmer/15.05.1/mvebu/generic/)
-* [Linksys 原厂固件下载](http://www.linksys.com/us/support-article?articleNum=148550)
+* [Linksys 1900AC V1/V2 原厂固件下载](http://www.linksys.com/us/support-article?articleNum=148550)
+* [Linksys 1900ACS 原厂固件下载](http://www.linksys.com/us/support-article?articleNum=165487)
 * [一键切换 OPKG 源](https://github.com/NemoAlex/opkg-srouce-switcher)
-* [网友 wangshuoyao 提供的固件](https://github.com/wongsyrone/openwrt-1) 这个版本集成了多个软件，有需要的可以自行编译
+* [网友 wangshuoyao 提供的固件](https://github.com/wongsyrone/lede-1) 这个版本集成了多个软件，有需要的可以自行编译
 
 ## 原创文章
 

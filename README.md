@@ -34,8 +34,8 @@ A: 路由器代号：`mamba: WRT1900AC v1`；`cobra: WRT1900AC v2`；`shelby: WR
 
 * [OpenWrt Linksys WRT1900AC](http://wiki.openwrt.org/toh/linksys/wrt1900ac)
 * [OpenWrt 15.05.1 下载](https://downloads.openwrt.org/chaos_calmer/15.05.1/mvebu/generic/)
-* [Linksys 1900AC V1/V2原厂固件下载](http://www.linksys.com/us/support-article?articleNum=148550)
-* [Linksys 1900ACS原厂固件下载](http://www.linksys.com/us/support-article?articleNum=165487)
+* [Linksys 1900AC V1/V2 原厂固件下载](http://www.linksys.com/us/support-article?articleNum=148550)
+* [Linksys 1900ACS 原厂固件下载](http://www.linksys.com/us/support-article?articleNum=165487)
 * [一键切换 OPKG 源](https://github.com/NemoAlex/opkg-srouce-switcher)
 * [网友 wangshuoyao 提供的固件](https://github.com/wongsyrone/lede-1) 这个版本集成了多个软件，有需要的可以自行编译
 
